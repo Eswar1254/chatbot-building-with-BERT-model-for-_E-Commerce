@@ -51,7 +51,7 @@ def get_response(ints, intents_json):
     return result
 
 def main():
-    st.title("E-COMMERCE Chatbot")
+    st.title("E-COMMERCE CHATBOT")
 
     message = st.text_input("You: ")
 
