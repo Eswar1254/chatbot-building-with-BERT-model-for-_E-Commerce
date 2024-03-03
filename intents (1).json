@@ -455,7 +455,64 @@
         "i7 laptop"
         ]
 
-      }
+      },
+    {
+  "tag": "product_data",
+  "patterns": [
+    "Can you provide information about phones?",
+    "I'm interested in learning about phones.",
+    "What kind of information do you have about phones?",
+    "Tell me about phones.",
+    "Phones data",
+    "What phones do you have available?",
+    "Can you give me details on phones?",
+    "I want to know about phones."
+  ],
+  "responses": [
+    "Sure! We have a wide range of phones available. What specific information are you looking for?",
+    "Phones are one of our specialties! What brand or model are you interested in?",
+    "Absolutely, I can help with that. What aspect of phones are you curious about?",
+    "Of course! We offer detailed information about various phones. What details would you like to know?"
+  ]
+},
+{
+  "tag": "product_data",
+  "patterns": [
+    "Do you have information about clothing?",
+    "Tell me about the clothes you offer.",
+    "What kind of clothing do you sell?",
+    "I'm interested in learning about your clothing products.",
+    "Clothing data",
+    "Can you provide details about your clothing selection?",
+    "What clothing items do you have?",
+    "I want to know about clothes."
+  ],
+  "responses": [
+    "Certainly! We have a diverse range of clothing items. What specific type or style are you interested in?",
+    "Our clothing collection is quite extensive. What particular item are you looking for?",
+    "Absolutely, we offer various types of clothing. What style or category are you interested in?",
+    "Of course, we have a wide selection of clothing items available. What information do you need?"
+  ]
+},
+{
+  "tag": "product_data",
+  "patterns": [
+    "Can you give me details about laptops?",
+    "Tell me about the laptops you have.",
+    "What laptops are available?",
+    "I'm interested in learning about laptops.",
+    "Laptops data",
+    "What kind of laptops do you sell?",
+    "Can you provide information about your laptop selection?",
+    "I want to know about laptops."
+  ],
+  "responses": [
+    "Absolutely! We offer a variety of laptops. What specific features or brands are you interested in?",
+    "Laptops are one of our specialties! What particular model or brand are you looking for?",
+    "Sure thing! We have a wide range of laptops to choose from. What are your requirements or preferences?",
+    "Of course, we have a diverse selection of laptops available. What details do you need?"
+  ]
+}
     
   ]
 }
