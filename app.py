@@ -52,7 +52,7 @@ def get_response(ints, intents_json):
 
 def main():
     st.title("E-COMMERCE CHATBOT")
-    st.image("chatbot_icon.png", width=200)
+    st.image("chatbot_icon.png", width=100)
 
     message = st.text_input("You: ")
 
