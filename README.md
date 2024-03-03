@@ -1,3 +1,10 @@
+INTERFACE:-
+![Screenshot (25)](https://github.com/Eswar1254/project_chatbot_bert/assets/116758728/e9343dd0-4a23-4153-8b08-b55ebe636cee)
+SYSTEM ARCHITECTURE:-
+![Screenshot (21)](https://github.com/Eswar1254/project_chatbot_bert/assets/116758728/aadac449-905e-474d-96ad-a06646bf8ea5)
+
+
+
 Chatbot Application:-
 
 This is a simple chatbot application built using Streamlit, NLTK, and Keras. The chatbot is trained on a dataset of intents and can respond to user messages based on the predicted intent.
