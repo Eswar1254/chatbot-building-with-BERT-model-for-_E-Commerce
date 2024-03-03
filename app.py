@@ -9,7 +9,7 @@ from keras.models import load_model
 
 model = load_model('chatbot_model.h5')
 intents = json.loads(open('intents (1).json').read())
-words = pickle.load(open('mobel.pkl', 'rb'))
+words = pickle.load(open('words.pkl', 'rb'))
 classes = pickle.load(open('classes.pkl', 'rb'))
 lemmatizer = WordNetLemmatizer()
 
