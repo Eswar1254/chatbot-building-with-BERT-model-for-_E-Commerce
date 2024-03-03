@@ -7,7 +7,7 @@ from nltk.stem import WordNetLemmatizer
 import pickle
 from keras.models import load_model
 
-nltk.download('wordnet')
+nltk.download('punkt')
 model = load_model('chatbot_model.h5')
 intents = json.loads(open('intents (1).json').read())
 words = pickle.load(open('words.pkl', 'rb'))
