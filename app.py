@@ -8,7 +8,7 @@ import pickle
 from keras.models import load_model
 
 # Download NLTK resources
- nltk.download('wordnet')
+nltk.download('wordnet')
 # Load pre-trained model and associated data
 model = load_model('chatbot_model.h5')
 intents = json.loads(open('intents (1).json').read())
